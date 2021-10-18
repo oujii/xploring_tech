@@ -1,6 +1,6 @@
 ---
 title: Knots and NFTs
-date: 2018-08-16T12:01+02:00
+date: 2021-10-18T07:54:53.731Z
 description: What is a knot and how 3d printing can help
 image: /images/uploads/246326349_455504085856353_7041752946627427357_n.png
 ---
